@@ -1,0 +1,12 @@
+{
+  "name": "mini-refinery-analysis",
+  "interface": { "displayName": "Mini Refinery Analysis" },
+  "plugins": [
+    {
+      "name": "mini-refinery-analysis",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools"
+    }
+  ]
+}

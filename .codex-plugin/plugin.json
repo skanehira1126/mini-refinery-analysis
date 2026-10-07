@@ -1,0 +1,16 @@
+{
+  "name": "mini-refinery-analysis",
+  "version": "0.1.0",
+  "description": "目的ごとに分析を進め、根拠付きの知見と作業記録を残す軽量プラグイン。",
+  "author": { "name": "あお" },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mini Refinery Analysis",
+    "shortDescription": "目的ごとの分析・知見・現在地を管理",
+    "longDescription": "分析のHowと知見の蓄積を、目的フォルダとMarkdownで管理します。分析環境は利用先のAGENTS.md等に従い、別目的の知見は明示的な依頼で取り込みます。",
+    "developerName": "あお",
+    "category": "Developer Tools",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": ["目的ごとに分析を進め、知見と現在地を整理してください。"]
+  }
+}

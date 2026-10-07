@@ -1,0 +1,4 @@
+interface:
+  display_name: "目的に沿った分析"
+  short_description: "問いから比較方法を組み立て、分析結果と根拠を目的ごとに残す"
+  default_prompt: "$analyze-objective を使い、この目的に必要な分析を進めてください。"

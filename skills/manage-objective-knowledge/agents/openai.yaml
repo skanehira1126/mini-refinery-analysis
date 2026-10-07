@@ -1,0 +1,4 @@
+interface:
+  display_name: "目的と知見の管理"
+  short_description: "目的ごとの現在地・知見・分析記録を整理し、条件付きで再利用する"
+  default_prompt: "$manage-objective-knowledge を使い、この目的の知見と現在地を整理してください。"
